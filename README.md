@@ -19,6 +19,10 @@ Ripple is currently using Blockchain technology along with its own protocol that
 
 ## Landscape
 
+Ripple falls into the domain of both Blockchain and Cryptocurrency. Though critics of Ripple claim they are not a true Cryptocurrency, claiming it is more of a security as it acts as a bridge in transactions and is not decentralized. Ripple defends its claim that it is a true Cryptocurrency by saying that its Cryptocurrency (XPR) can stand alone even if Ripple itself were to shut down. However, Ripple is not the only Cryptocurrency and Blockchain company out there. Stellar is another Blockchain company striving to leverage its own Cryptocurrency called XLM. Besides Stellar Forbes lists Bitfury, Circle, Coinbase, and Gemini as all being a Cryptocurrency and Blockchain company as well as being in the top 50 FinTech companies across all domains.
+
+
+
 ## Results
 
 ## Recomendations
