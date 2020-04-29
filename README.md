@@ -43,20 +43,12 @@ While Ripple’s future does look bright as they add new partners and financial 
 
 ### Sources
 
-![Ripple](https://ripple.com/company/)
-
-![Forbes-11 Biggest FinTech Companies in America 2019](https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/#18fea17432b9)
-
-![Forbes-FinTech 50](https://www.forbes.com/fintech/2019/#667f7ed22b4c)
-
-![FinTech Futures-Ripple Raises 200m in Series C Funding](https://www.fintechfutures.com/2019/12/ripple-raises-200m-in-series-c-funding-round/)
-
-![Medium-FinTech Focus on RIPPLE: Blockchain Leader in Remittances](https://medium.com/fintechtris/fintech-focus-on-ripple-blockchain-leader-in-remittances-1f05603011d9)
-
-![MIT Technology Review](https://www.technologyreview.com/2017/06/16/151164/first-large-scale-analysis-of-the-ripple-cryptocurrency-network/)
-
-![ZDNET-19 Useful Metrics for Measuring Blockchain Progress](https://www.zdnet.com/article/19-useful-metrics-for-measuring-blockchain-results/)
-
-![Bitsonline-The 8 Most Important Cryptocurrency Metrics to Look For](https://bitsonline.com/8-important-cryptocurrency-metrics/)
-
-![Forbes-Ten Years Of FinTech Megatrends For The Next Decade](https://www.forbes.com/sites/lawrencewintermeyer/2019/12/26/ten-years-of-fintech-megatrends-for-the-next-decade/#1d2aa79318aa)
+-l1![Ripple](https://ripple.com/company/)
+-l1![Forbes-11 Biggest FinTech Companies in America 2019](https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/#18fea17432b9)
+-l1![Forbes-FinTech 50](https://www.forbes.com/fintech/2019/#667f7ed22b4c)
+-l1![FinTech Futures-Ripple Raises 200m in Series C Funding](https://www.fintechfutures.com/2019/12/ripple-raises-200m-in-series-c-funding-round/)
+-l1![Medium-FinTech Focus on RIPPLE: Blockchain Leader in Remittances](https://medium.com/fintechtris/fintech-focus-on-ripple-blockchain-leader-in-remittances-1f05603011d9)
+-l1![MIT Technology Review](https://www.technologyreview.com/2017/06/16/151164/first-large-scale-analysis-of-the-ripple-cryptocurrency-network/)
+-l1![ZDNET-19 Useful Metrics for Measuring Blockchain Progress](https://www.zdnet.com/article/19-useful-metrics-for-measuring-blockchain-results/)
+-l1![Bitsonline-The 8 Most Important Cryptocurrency Metrics to Look For](https://bitsonline.com/8-important-cryptocurrency-metrics/)
+-l1![Forbes-Ten Years Of FinTech Megatrends For The Next Decade](https://www.forbes.com/sites/lawrencewintermeyer/2019/12/26/ten-years-of-fintech-megatrends-for-the-next-decade/#1d2aa79318aa)
